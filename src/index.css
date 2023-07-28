@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Bebas Neue', sans-serif;
+  color: white;
+  
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+}
+
+body {
+  background-color: #171717;
+  padding: 2rem;
+  
+}
+
+button {
+  cursor: pointer;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
