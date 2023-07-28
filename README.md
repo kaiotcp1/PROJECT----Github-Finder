@@ -1,6 +1,6 @@
-#Github Finder
+# Github Finder
 
-# Sobre o projeto
+## Sobre o projeto
 
 Esta aplicação web simples para teste utilizado Typescript. Permite ao usuário buscar repositórios do Github consumindo a API publica do Github. [Acesse aqui](https://projectgithubfinder.netlify.app)
 
