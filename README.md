@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esta aplicação web simples para teste utilizado Typescript. Permite ao usuário buscar repositórios do Github consumindo a API publica do Github. [Acesse aqui](https://projectgithubfinder.netlify.app)
+Esta é uma aplicação web simples para teste utilizado Typescript. Permite ao usuário buscar repositórios do Github consumindo a API publica do Github. [Acesse aqui](https://projectgithubfinder.netlify.app)
 
 ## Preview
 -----------
